@@ -21,13 +21,13 @@ Python • Scikit-learn • TensorFlow  • AutoML • Docker
 
       [View Notebook](https://github.com/rshewatkar/ML_internship/blob/c23fe3f8609ad020f461525db5295151517e39f7/Boston%20House%20Pricing%20Dataset/House_price_prediction.ipynb)
 
-2. [Mobile Phone Pricing](Mobile%20Phone%20Pricing/)
+2. [Mobile Phone Pricing](https://github.com/rshewatkar/ML_internship/tree/c23fe3f8609ad020f461525db5295151517e39f7/Mobile%20Phone%20Pricing)
 
-     [View Notebook](Mobile%20Phone%20Pricing/Mobile_Phone_Pricing.ipynb)
+     [View Notebook](https://github.com/rshewatkar/ML_internship/blob/c23fe3f8609ad020f461525db5295151517e39f7/Mobile%20Phone%20Pricing/Mobile_Phone_Pricing.ipynb)
 
-3. [Vehicle Price Prediction](Vehicle%20Price%20Prediction/)
+3. [Vehicle Price Prediction](https://github.com/rshewatkar/ML_internship/tree/c23fe3f8609ad020f461525db5295151517e39f7/Vehicle%20Price%20Prediction)
 
-      [View Notebook](Vehicle%20Price%20Prediction/Vehical_price.ipynb)
+      [View Notebook](https://github.com/rshewatkar/ML_internship/blob/c23fe3f8609ad020f461525db5295151517e39f7/Vehicle%20Price%20Prediction/Vehical_price.ipynb)
 
 ## 📊 GitHub Stats
 
